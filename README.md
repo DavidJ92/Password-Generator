@@ -35,7 +35,9 @@ This is a simple password generator web application that allows users to generat
 
 ## Installation:
 
-No installation is required to use this password generator. Simply open the provided HTML file in a web browser.
+No installation is required to use this password generator. Simply open the provided link in a web browser.
+
+[Password Generator](https://davidj92.github.io/Password-Generator/)
 
 ## Credits:
 
